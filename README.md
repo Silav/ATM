@@ -26,6 +26,8 @@ an error-message telling the user what the problem is,without ending or crashing
 
 * In this project the mandatory requirements have been developed.
 
+## Java SDK version
+17.0.2 (build 17.0.2 + 8)
 
 ## How to run
 * Create a jar file https://www.youtube.com/watch?v=_XQjs1xGtaU.
